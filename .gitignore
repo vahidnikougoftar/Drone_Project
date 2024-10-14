@@ -3,5 +3,4 @@ __pycache__/
 *.DS_Store
 config.py
 drone_venv/
-Other_apps_and_tests/
 Tello-Drone.code-workspace
